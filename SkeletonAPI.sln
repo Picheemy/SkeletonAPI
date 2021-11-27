@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkeletonAPI", "SkeletonAPI\SkeletonAPI.csproj", "{70879F3F-4027-47ED-B830-6B14812C3137}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{195DDA50-730C-4459-8166-275D2B7C14C1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70879F3F-4027-47ED-B830-6B14812C3137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70879F3F-4027-47ED-B830-6B14812C3137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70879F3F-4027-47ED-B830-6B14812C3137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70879F3F-4027-47ED-B830-6B14812C3137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {681391A7-70EC-446C-B055-90CF82AEB68D}
+	EndGlobalSection
+EndGlobal
