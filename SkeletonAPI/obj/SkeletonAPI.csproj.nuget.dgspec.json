@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mouri\\OneDrive\\Bureau\\Cours\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj": {}
+    "C:\\2.COURS\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mouri\\OneDrive\\Bureau\\Cours\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj": {
+    "C:\\2.COURS\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mouri\\OneDrive\\Bureau\\Cours\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj",
+        "projectUniqueName": "C:\\2.COURS\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj",
         "projectName": "SkeletonAPI",
-        "projectPath": "C:\\Users\\mouri\\OneDrive\\Bureau\\Cours\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj",
+        "projectPath": "C:\\2.COURS\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj",
         "packagesPath": "C:\\Users\\mouri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mouri\\OneDrive\\Bureau\\Cours\\C#\\SkeletonAPI\\SkeletonAPI\\obj\\",
+        "outputPath": "C:\\2.COURS\\C#\\SkeletonAPI\\SkeletonAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mouri\\AppData\\Roaming\\NuGet\\NuGet.Config",

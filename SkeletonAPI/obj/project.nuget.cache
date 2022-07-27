@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wwt6/YCG+5rHOx3N59xH1DZBW5tDN8kmWzGIh9Y/xJenAf+uhqHDNCqDmU0PE59zY4mkgbIBEs5pxtj4KGu7Lg==",
+  "dgSpecHash": "c2LZn9uz0DstOwfp728U5EY3rGwHylKme7lhPxtxORcsBzsN8kjlDZLG4b1P08q0xUpKrtr84DHlwmNtqt0PfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mouri\\OneDrive\\Bureau\\Cours\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj",
+  "projectFilePath": "C:\\2.COURS\\C#\\SkeletonAPI\\SkeletonAPI\\SkeletonAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mouri\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mouri\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
